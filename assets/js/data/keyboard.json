@@ -1,0 +1,889 @@
+[{
+        "id": 1,
+        "img": "../assets/img/product/ACER/sp1/1.png",
+        "brand": "ACER",
+        "title": "Acer Predator Aethon 500",
+        "descrip": "Gaming Keyboard",
+        "cost": "",
+        "price": 3690000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ACER/sp1/1.png",
+                "../assets/img/product/ACER/sp1/2.png",
+                "../assets/img/product/ACER/sp1/3.png"
+            ],
+            "des": "Gaming Keyboard",
+            "des_img": [
+                "https://tmp.phongvu.vn/wp-content/uploads/2019/02/72.-B%C3%A0n-ph%C3%ADm-c%C6%A1-Gaming-Acer-Predator-Aethon-500.jpg",
+                "https://tmp.phongvu.vn/wp-content/uploads/2019/02/76.-B%C3%A0n-ph%C3%ADm-c%C6%A1-Gaming-Acer-Predator-Aethon-500.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt với mỗi lần nhấn phím. Bàn phím cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "Tận hưởng sự thực dụng nhưng vẫn phong cách và mạnh mẽ đạm tính gaming. Bề mặt nhôm chống ăn mòn và chiếu kê tay có thể tháo rời là những tiện ích bổ sung đáng giá cho những  nhu cầu trải nghiệm cấp cao."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "Cảm nhận sự khác biệt mỗi lần nhấn phím. Bàn phím được trải qua thẩm định độ bền với 70 triệu lượt nhấn cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "ÁNH SÁNG TRONG LÒNG BÀN TAY",
+                "Kiểm soát hoàn toàn ánh sáng theo macro 16,8 triệu màu với tùy chọn tùy chỉnh đèn LED nền của từng phím. Bên cạnh đó, bạn có thể thiết lập hiệu ứng Led riêng cho mình với tối da 9 thiết lập riêng."
+            ]
+        },
+        "data-aos": "fade-right"
+    },
+    {
+        "id": 4,
+        "img": "../assets/img/product/CORSAIR/sp3/1.png",
+        "brand": "CORSAIR",
+        "title": "Corsair K70 Pro Mini",
+        "descrip": "Eau de Parfum Spray",
+        "cost": "",
+        "price": 4299000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/CORSAIR/sp3/1.png",
+                "../assets/img/product/CORSAIR/sp3/2.png",
+                "../assets/img/product/CORSAIR/sp3/3.png"
+            ],
+            "des": "Gaming Keyboard",
+            "des_img": [
+                "https://pbs.twimg.com/amplify_video_thumb/1547403103485546497/img/qACjj8me7VTB17Rl?format=jpg&name=large",
+                "https://cwsmgmt.corsair.com/pdp/k70-mini-wireless/white%20version/images/K70_PRO_MINI_WIRELESS_WHITE_PBT_panel32.png"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt với mỗi lần nhấn phím. Bàn phím cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "Tận hưởng sự thực dụng nhưng vẫn phong cách và mạnh mẽ đạm tính gaming. Bề mặt nhôm chống ăn mòn và chiếu kê tay có thể tháo rời là những tiện ích bổ sung đáng giá cho những  nhu cầu trải nghiệm cấp cao."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "Cảm nhận sự khác biệt mỗi lần nhấn phím. Bàn phím được trải qua thẩm định độ bền với 70 triệu lượt nhấn cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "ÁNH SÁNG TRONG LÒNG BÀN TAY",
+                "Kiểm soát hoàn toàn ánh sáng theo macro 16,8 triệu màu với tùy chọn tùy chỉnh đèn LED nền của từng phím. Bên cạnh đó, bạn có thể thiết lập hiệu ứng Led riêng cho mình với tối da 9 thiết lập riêng."
+            ]
+        },
+        "data-aos": "fade-up"
+    },
+    {
+        "id": 5,
+        "img": "../assets/img/product/LOGITECH/sp1/1.png",
+        "brand": "LOGITECH",
+        "title": "Logitech G715 TKL RGB Aurora",
+        "descrip": "Eau de Parfum Spray",
+        "cost": "",
+        "price": 3849000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/LOGITECH/sp1/1.png",
+                "../assets/img/product/LOGITECH/sp1/2.png",
+                "../assets/img/product/LOGITECH/sp1/3.png"
+            ],
+            "des": "Gaming Keyboard",
+            "des_img": [
+                "https://nguyenvu.store/wp-content/uploads/2022/10/ban-phim-co-logitech-g715-wireless-tkl-nguyenvu.store-3.webp",
+                "https://hanoicomputercdn.com/media/product/68796_ban_phim_game_khong_day_logitech_g715_tkl_rgb_aurora_off_white_6.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt với mỗi lần nhấn phím. Bàn phím cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "Tận hưởng sự thực dụng nhưng vẫn phong cách và mạnh mẽ đạm tính gaming. Bề mặt nhôm chống ăn mòn và chiếu kê tay có thể tháo rời là những tiện ích bổ sung đáng giá cho những  nhu cầu trải nghiệm cấp cao."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "Cảm nhận sự khác biệt mỗi lần nhấn phím. Bàn phím được trải qua thẩm định độ bền với 70 triệu lượt nhấn cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "ÁNH SÁNG TRONG LÒNG BÀN TAY",
+                "Kiểm soát hoàn toàn ánh sáng theo macro 16,8 triệu màu với tùy chọn tùy chỉnh đèn LED nền của từng phím. Bên cạnh đó, bạn có thể thiết lập hiệu ứng Led riêng cho mình với tối da 9 thiết lập riêng."
+            ]
+        },
+        "data-aos": "fade-right"
+    },
+    {
+        "id": 8,
+        "img": "../assets/img/product/RAZER/sp3/1.png",
+        "brand": "RAZER",
+        "title": "Razer Huntsman V2 Analog",
+        "descrip": "Eau de Parfum for him",
+        "cost": "",
+        "price": 5999000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/RAZER/sp3/1.png",
+                "../assets/img/product/RAZER/sp3/2.png",
+                "../assets/img/product/RAZER/sp3/3.png"
+            ],
+            "des": "Gaming Keyboard",
+            "des_img": [
+                "https://vn-test-11.slatic.net/p/3d3209a211ec76d64a79503037ce993f.jpg",
+                "https://cdn.mos.cms.futurecdn.net/KRRVjQxAew5x4ii3cwwvn4.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt với mỗi lần nhấn phím. Bàn phím cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "Tận hưởng sự thực dụng nhưng vẫn phong cách và mạnh mẽ đạm tính gaming. Bề mặt nhôm chống ăn mòn và chiếu kê tay có thể tháo rời là những tiện ích bổ sung đáng giá cho những  nhu cầu trải nghiệm cấp cao."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "Cảm nhận sự khác biệt mỗi lần nhấn phím. Bàn phím được trải qua thẩm định độ bền với 70 triệu lượt nhấn cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "ÁNH SÁNG TRONG LÒNG BÀN TAY",
+                "Kiểm soát hoàn toàn ánh sáng theo macro 16,8 triệu màu với tùy chọn tùy chỉnh đèn LED nền của từng phím. Bên cạnh đó, bạn có thể thiết lập hiệu ứng Led riêng cho mình với tối da 9 thiết lập riêng."
+            ]
+        },
+        "data-aos": "fade-right"
+    },
+    {
+        "id": 9,
+        "img": "../assets/img/product/ACER/sp2/1.png",
+        "brand": "ACER",
+        "title": "Acer Predator Aethon 700",
+        "descrip": "Gaming Keyboard",
+        "cost": "",
+        "price": 3000000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ACER/sp2/1.png",
+                "../assets/img/product/ACER/sp2/2.png",
+                "../assets/img/product/ACER/sp2/3.png"
+            ],
+            "des": "Gaming Keyboard",
+            "des_img": [
+                "https://funglr.games/wp-content/uploads/2023/02/acer-predator-aethon-700-release-01.jpg?w=640",
+                "https://images.acer.com/is/image/acer/Predator-Accessory-Aethon-700-perkey-ksp-04?$responsive$"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt với mỗi lần nhấn phím. Bàn phím cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "Tận hưởng sự thực dụng nhưng vẫn phong cách và mạnh mẽ đạm tính gaming. Bề mặt nhôm chống ăn mòn và chiếu kê tay có thể tháo rời là những tiện ích bổ sung đáng giá cho những  nhu cầu trải nghiệm cấp cao."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "Cảm nhận sự khác biệt mỗi lần nhấn phím. Bàn phím được trải qua thẩm định độ bền với 70 triệu lượt nhấn cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "ÁNH SÁNG TRONG LÒNG BÀN TAY",
+                "Kiểm soát hoàn toàn ánh sáng theo macro 16,8 triệu màu với tùy chọn tùy chỉnh đèn LED nền của từng phím. Bên cạnh đó, bạn có thể thiết lập hiệu ứng Led riêng cho mình với tối da 9 thiết lập riêng."
+            ]
+        },
+        "data-aos": "fade-down"
+    },
+    {
+        "id": 12,
+        "img": "../assets/img/product/CORSAIR/sp4/1.png",
+        "brand": "CORSAIR",
+        "title": "Corsair K70 RGB MK2 SE Speed",
+        "descrip": "Eau de Toilette for her - 50ML",
+        "cost": "",
+        "price": 3619000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/CORSAIR/sp4/1.png",
+                "../assets/img/product/CORSAIR/sp4/2.png",
+                "../assets/img/product/CORSAIR/sp4/3.png"
+            ],
+            "des": "Gaming Keyboard",
+            "des_img": [
+                "https://i.ytimg.com/vi/p-lHNH2bzZM/maxresdefault.jpg",
+                "https://media.mmorpg.com/images/heroes/features/12854.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt với mỗi lần nhấn phím. Bàn phím cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "Tận hưởng sự thực dụng nhưng vẫn phong cách và mạnh mẽ đạm tính gaming. Bề mặt nhôm chống ăn mòn và chiếu kê tay có thể tháo rời là những tiện ích bổ sung đáng giá cho những  nhu cầu trải nghiệm cấp cao."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "Cảm nhận sự khác biệt mỗi lần nhấn phím. Bàn phím được trải qua thẩm định độ bền với 70 triệu lượt nhấn cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "ÁNH SÁNG TRONG LÒNG BÀN TAY",
+                "Kiểm soát hoàn toàn ánh sáng theo macro 16,8 triệu màu với tùy chọn tùy chỉnh đèn LED nền của từng phím. Bên cạnh đó, bạn có thể thiết lập hiệu ứng Led riêng cho mình với tối da 9 thiết lập riêng."
+            ]
+        },
+        "data-aos": "fade-left"
+    },
+    {
+        "id": 13,
+        "img": "../assets/img/product/LOGITECH/sp2/1.png",
+        "brand": "LOGITECH",
+        "title": "Logitech G913 TKL Lightspeed Wireless",
+        "descrip": "Eau de Toilette for her",
+        "cost": "",
+        "price": 3899000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/LOGITECH/sp2/1.png",
+                "../assets/img/product/LOGITECH/sp2/2.png",
+                "../assets/img/product/LOGITECH/sp2/3.png"
+            ],
+            "des": "Gaming Keyboard",
+            "des_img": [
+                "https://file.hstatic.net/1000026716/file/gearvn-ban-phim-logitech-g913-tkl-lightspeed-wireless-7_3278de91013b465fb83e7400f7c9269c.png",
+                "https://product.hstatic.net/1000333506/product/g913-tkl-wireless-4_104441c5f25e4f53b1740f4b26b4816d_d83b13dd28074b1db558f044e3f742dd.png"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt với mỗi lần nhấn phím. Bàn phím cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "Tận hưởng sự thực dụng nhưng vẫn phong cách và mạnh mẽ đạm tính gaming. Bề mặt nhôm chống ăn mòn và chiếu kê tay có thể tháo rời là những tiện ích bổ sung đáng giá cho những  nhu cầu trải nghiệm cấp cao."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "Cảm nhận sự khác biệt mỗi lần nhấn phím. Bàn phím được trải qua thẩm định độ bền với 70 triệu lượt nhấn cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "ÁNH SÁNG TRONG LÒNG BÀN TAY",
+                "Kiểm soát hoàn toàn ánh sáng theo macro 16,8 triệu màu với tùy chọn tùy chỉnh đèn LED nền của từng phím. Bên cạnh đó, bạn có thể thiết lập hiệu ứng Led riêng cho mình với tối da 9 thiết lập riêng."
+            ]
+        },
+        "data-aos": "fade-down"
+    },
+    {
+        "id": 16,
+        "img": "../assets/img/product/RAZER/sp4/1.png",
+        "brand": "RAZER",
+        "title": "Razer Ornata Expert Pikachu Limited Edition",
+        "descrip": "Eau de Toilette Spray",
+        "cost": "",
+        "price": 2999000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/RAZER/sp4/1.png",
+                "../assets/img/product/RAZER/sp4/2.png",
+                "../assets/img/product/RAZER/sp4/3.png"
+            ],
+            "des": "Gaming Keyboard",
+            "des_img": [
+                "https://cf.shopee.com.my/file/867509a21dcda13bfb5b17f66b905755",
+                "https://gamerbraves.sgp1.cdn.digitaloceanspaces.com/2020/10/DSC00175-1024x576.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt với mỗi lần nhấn phím. Bàn phím cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "Tận hưởng sự thực dụng nhưng vẫn phong cách và mạnh mẽ đạm tính gaming. Bề mặt nhôm chống ăn mòn và chiếu kê tay có thể tháo rời là những tiện ích bổ sung đáng giá cho những  nhu cầu trải nghiệm cấp cao."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "Cảm nhận sự khác biệt mỗi lần nhấn phím. Bàn phím được trải qua thẩm định độ bền với 70 triệu lượt nhấn cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "ÁNH SÁNG TRONG LÒNG BÀN TAY",
+                "Kiểm soát hoàn toàn ánh sáng theo macro 16,8 triệu màu với tùy chọn tùy chỉnh đèn LED nền của từng phím. Bên cạnh đó, bạn có thể thiết lập hiệu ứng Led riêng cho mình với tối da 9 thiết lập riêng."
+            ]
+        },
+        "data-aos": "fade-left"
+    },
+    {
+        "id": 17,
+        "img": "../assets/img/product/ACER/sp3/1.png",
+        "brand": "ACER",
+        "title": "Acer Predator Aethon 301 TKL",
+        "descrip": "Eau de Parfum Refillable for her",
+        "cost": "",
+        "price": 2500000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ACER/sp3/1.png",
+                "../assets/img/product/ACER/sp3/2.png",
+                "../assets/img/product/ACER/sp3/3.png"
+            ],
+            "des": "Gaming Keyboard",
+            "des_img": [
+                "https://mega.com.vn/media/product/22629_ban_phim_co_gaming_acer_predator_aethon_301_tkl_usb_8.jpg",
+                "https://laptopaz.vn/media/product/2499_0407_ban_phim_co_predator_aethon_301_tkl.png"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt với mỗi lần nhấn phím. Bàn phím cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "Tận hưởng sự thực dụng nhưng vẫn phong cách và mạnh mẽ đạm tính gaming. Bề mặt nhôm chống ăn mòn và chiếu kê tay có thể tháo rời là những tiện ích bổ sung đáng giá cho những  nhu cầu trải nghiệm cấp cao."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "Cảm nhận sự khác biệt mỗi lần nhấn phím. Bàn phím được trải qua thẩm định độ bền với 70 triệu lượt nhấn cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "ÁNH SÁNG TRONG LÒNG BÀN TAY",
+                "Kiểm soát hoàn toàn ánh sáng theo macro 16,8 triệu màu với tùy chọn tùy chỉnh đèn LED nền của từng phím. Bên cạnh đó, bạn có thể thiết lập hiệu ứng Led riêng cho mình với tối da 9 thiết lập riêng."
+            ]
+        },
+        "data-aos": "fade-up"
+    },
+    {
+        "id": 18,
+        "img": "../assets/img/product/ASUS/sp1/1.png",
+        "brand": "ASUS",
+        "title": "Asus ROG Strix Flare II NX",
+        "descrip": "Eau de Toilette Refillable Spray",
+        "cost": "",
+        "price": 3299000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ASUS/sp1/1.png",
+                "../assets/img/product/ASUS/sp1/2.png",
+                "../assets/img/product/ASUS/sp1/3.png"
+            ],
+            "des": "Gaming Keyboard",
+            "des_img": [
+                "https://file.hstatic.net/1000129940/file/ban-phim-asus-rog-strix-flare-ii-nx-8_90999178f29c4df5bb899bc065b8cca4.jpg",
+                "https://www.allround-pc.com/wp-content/uploads/2022/08/Asus-ROG-Strix-Flare-2-Animate-Gaming-Tastatur-Keyboard-Test-Review-13.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt với mỗi lần nhấn phím. Bàn phím cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "Tận hưởng sự thực dụng nhưng vẫn phong cách và mạnh mẽ đạm tính gaming. Bề mặt nhôm chống ăn mòn và chiếu kê tay có thể tháo rời là những tiện ích bổ sung đáng giá cho những  nhu cầu trải nghiệm cấp cao."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "Cảm nhận sự khác biệt mỗi lần nhấn phím. Bàn phím được trải qua thẩm định độ bền với 70 triệu lượt nhấn cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "ÁNH SÁNG TRONG LÒNG BÀN TAY",
+                "Kiểm soát hoàn toàn ánh sáng theo macro 16,8 triệu màu với tùy chọn tùy chỉnh đèn LED nền của từng phím. Bên cạnh đó, bạn có thể thiết lập hiệu ứng Led riêng cho mình với tối da 9 thiết lập riêng."
+            ]
+        },
+        "data-aos": "fade-right"
+    },
+    {
+        "id": 21,
+        "img": "../assets/img/product/LOGITECH/sp3/1.png",
+        "brand": "LOGITECH",
+        "title": "Logitech G Pro X",
+        "descrip": "Eau de Parfum for her",
+        "cost": "",
+        "price": 2199000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/LOGITECH/sp3/1.png",
+                "../assets/img/product/LOGITECH/sp3/2.png",
+                "../assets/img/product/LOGITECH/sp3/3.png"
+            ],
+            "des": "Gaming Keyboard",
+            "des_img": [
+                "https://cdn.mos.cms.futurecdn.net/azfDqGxTqUNFTzJGSs5hyV.jpeg",
+                "https://mms.businesswire.com/media/20191001005373/en/747071/4/DSC03576.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt với mỗi lần nhấn phím. Bàn phím cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "Tận hưởng sự thực dụng nhưng vẫn phong cách và mạnh mẽ đạm tính gaming. Bề mặt nhôm chống ăn mòn và chiếu kê tay có thể tháo rời là những tiện ích bổ sung đáng giá cho những  nhu cầu trải nghiệm cấp cao."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "Cảm nhận sự khác biệt mỗi lần nhấn phím. Bàn phím được trải qua thẩm định độ bền với 70 triệu lượt nhấn cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "ÁNH SÁNG TRONG LÒNG BÀN TAY",
+                "Kiểm soát hoàn toàn ánh sáng theo macro 16,8 triệu màu với tùy chọn tùy chỉnh đèn LED nền của từng phím. Bên cạnh đó, bạn có thể thiết lập hiệu ứng Led riêng cho mình với tối da 9 thiết lập riêng."
+            ]
+        },
+        "data-aos": "fade-up"
+    },
+    {
+        "id": 22,
+        "img": "../assets/img/product/MSI/sp1/1.png",
+        "brand": "MSI",
+        "title": "MSI Vigor GK71 Sonic",
+        "descrip": "Eau de Toilette",
+        "cost": "",
+        "price": 2849000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/MSI/sp1/1.png",
+                "../assets/img/product/MSI/sp1/2.png",
+                "../assets/img/product/MSI/sp1/3.png"
+            ],
+            "des": "Gaming Keyboard",
+            "des_img": [
+                "https://storage-asset.msi.com/global/picture/image/feature/multimeda/keyboard/VIGOR-GK71-SONIC/images/GK71-SONIC-kv.jpg",
+                "https://storage-asset.msi.com/global/picture/image/feature/multimeda/keyboard/VIGOR-GK71-SONIC/images/clearCaps.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt với mỗi lần nhấn phím. Bàn phím cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "Tận hưởng sự thực dụng nhưng vẫn phong cách và mạnh mẽ đạm tính gaming. Bề mặt nhôm chống ăn mòn và chiếu kê tay có thể tháo rời là những tiện ích bổ sung đáng giá cho những  nhu cầu trải nghiệm cấp cao."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "Cảm nhận sự khác biệt mỗi lần nhấn phím. Bàn phím được trải qua thẩm định độ bền với 70 triệu lượt nhấn cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "ÁNH SÁNG TRONG LÒNG BÀN TAY",
+                "Kiểm soát hoàn toàn ánh sáng theo macro 16,8 triệu màu với tùy chọn tùy chỉnh đèn LED nền của từng phím. Bên cạnh đó, bạn có thể thiết lập hiệu ứng Led riêng cho mình với tối da 9 thiết lập riêng."
+            ]
+        },
+        "data-aos": "fade-right"
+    },
+    {
+        "id": 25,
+        "img": "../assets/img/product/ACER/sp4/1.png",
+        "brand": "ACER",
+        "title": "Acer Predator Aethon 300",
+        "descrip": "Eau de Parfum for her",
+        "cost": "",
+        "price": 3290000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ACER/sp4/1.png",
+                "../assets/img/product/ACER/sp4/2.png",
+                "../assets/img/product/ACER/sp4/3.png"
+            ],
+            "des": "Gaming Keyboard",
+            "des_img": [
+                "https://laptopworld.vn/media/lib/20-06-2022/predator-aethon-301-tkl_lifestyle_3.jpg",
+                "https://www.cherrymx.de/_Resources/Persistent/0/e/2/2/0e224f4ff5df554c5a45127e12439e609dd39ed1/aufmacher.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt với mỗi lần nhấn phím. Bàn phím cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "Tận hưởng sự thực dụng nhưng vẫn phong cách và mạnh mẽ đạm tính gaming. Bề mặt nhôm chống ăn mòn và chiếu kê tay có thể tháo rời là những tiện ích bổ sung đáng giá cho những  nhu cầu trải nghiệm cấp cao."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "Cảm nhận sự khác biệt mỗi lần nhấn phím. Bàn phím được trải qua thẩm định độ bền với 70 triệu lượt nhấn cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "ÁNH SÁNG TRONG LÒNG BÀN TAY",
+                "Kiểm soát hoàn toàn ánh sáng theo macro 16,8 triệu màu với tùy chọn tùy chỉnh đèn LED nền của từng phím. Bên cạnh đó, bạn có thể thiết lập hiệu ứng Led riêng cho mình với tối da 9 thiết lập riêng."
+            ]
+        },
+        "data-aos": "fade-left"
+    },
+    {
+        "id": 26,
+        "img": "../assets/img/product/ASUS/sp2/1.png",
+        "brand": "ASUS",
+        "title": "Asus ROG Strix Flare II Animate NX",
+        "descrip": "Eau de Parfum for her",
+        "cost": "",
+        "price": 4249000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ASUS/sp2/1.png",
+                "../assets/img/product/ASUS/sp2/2.png",
+                "../assets/img/product/ASUS/sp2/3.png"
+            ],
+            "des": "Gaming Keyboard",
+            "des_img": [
+                "https://dlcdnwebimgs.asus.com/files/media/B416805B-5A11-4CAF-AE4B-9F25A08A4F94/v1/img/video/video-left.jpg",
+                "https://www.phucanh.vn/media/news/0601_oEPYAi7SZIXvag1O.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt với mỗi lần nhấn phím. Bàn phím cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "Tận hưởng sự thực dụng nhưng vẫn phong cách và mạnh mẽ đạm tính gaming. Bề mặt nhôm chống ăn mòn và chiếu kê tay có thể tháo rời là những tiện ích bổ sung đáng giá cho những  nhu cầu trải nghiệm cấp cao."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "Cảm nhận sự khác biệt mỗi lần nhấn phím. Bàn phím được trải qua thẩm định độ bền với 70 triệu lượt nhấn cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "ÁNH SÁNG TRONG LÒNG BÀN TAY",
+                "Kiểm soát hoàn toàn ánh sáng theo macro 16,8 triệu màu với tùy chọn tùy chỉnh đèn LED nền của từng phím. Bên cạnh đó, bạn có thể thiết lập hiệu ứng Led riêng cho mình với tối da 9 thiết lập riêng."
+            ]
+        },
+        "data-aos": "fade-down"
+    },
+    {
+        "id": 29,
+        "img": "../assets/img/product/LOGITECH/sp4/1.png",
+        "brand": "LOGITECH",
+        "title": "Logitech G512 Lightsync RGB",
+        "descrip": "Eau de Toilette for her - 75ML",
+        "cost": "",
+        "price": 1999000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/LOGITECH/sp4/1.png",
+                "../assets/img/product/LOGITECH/sp4/2.png",
+                "../assets/img/product/LOGITECH/sp4/3.png"
+            ],
+            "des": "Gaming Keyboard",
+            "des_img": [
+                "https://cdn.sforum.vn/sforum/wp-content/uploads/2019/03/CPS-Logitech-G512-Carbon-18.jpg",
+                "https://genk.mediacdn.vn/thumb_w/640/2018/11/4/photo-2-15413192521041343165891.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt với mỗi lần nhấn phím. Bàn phím cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "Tận hưởng sự thực dụng nhưng vẫn phong cách và mạnh mẽ đạm tính gaming. Bề mặt nhôm chống ăn mòn và chiếu kê tay có thể tháo rời là những tiện ích bổ sung đáng giá cho những  nhu cầu trải nghiệm cấp cao."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "Cảm nhận sự khác biệt mỗi lần nhấn phím. Bàn phím được trải qua thẩm định độ bền với 70 triệu lượt nhấn cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "ÁNH SÁNG TRONG LÒNG BÀN TAY",
+                "Kiểm soát hoàn toàn ánh sáng theo macro 16,8 triệu màu với tùy chọn tùy chỉnh đèn LED nền của từng phím. Bên cạnh đó, bạn có thể thiết lập hiệu ứng Led riêng cho mình với tối da 9 thiết lập riêng."
+            ]
+        },
+        "data-aos": "fade-left"
+    },
+    {
+        "id": 30,
+        "img": "../assets/img/product/MSI/sp2/1.png",
+        "brand": "MSI",
+        "title": "Msi Vigor GK30 White",
+        "descrip": "Eau de Toilette for her",
+        "cost": "",
+        "price": 1120000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/MSI/sp2/1.png",
+                "../assets/img/product/MSI/sp2/2.png",
+                "../assets/img/product/MSI/sp2/3.png"
+            ],
+            "des": "Gaming Keyboard",
+            "des_img": [
+                "https://htxt.co.za/wp-content/uploads/2023/01/msi-gk30-combo-review-3.jpg",
+                "https://cf.shopee.com.my/file/my-11134103-22070-83pcqjp526ev50"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt với mỗi lần nhấn phím. Bàn phím cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "Tận hưởng sự thực dụng nhưng vẫn phong cách và mạnh mẽ đạm tính gaming. Bề mặt nhôm chống ăn mòn và chiếu kê tay có thể tháo rời là những tiện ích bổ sung đáng giá cho những  nhu cầu trải nghiệm cấp cao."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "Cảm nhận sự khác biệt mỗi lần nhấn phím. Bàn phím được trải qua thẩm định độ bền với 70 triệu lượt nhấn cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "ÁNH SÁNG TRONG LÒNG BÀN TAY",
+                "Kiểm soát hoàn toàn ánh sáng theo macro 16,8 triệu màu với tùy chọn tùy chỉnh đèn LED nền của từng phím. Bên cạnh đó, bạn có thể thiết lập hiệu ứng Led riêng cho mình với tối da 9 thiết lập riêng."
+            ]
+        },
+        "data-aos": "fade-down"
+    },
+    {
+        "id": 34,
+        "img": "../assets/img/product/ASUS/sp3/1.png",
+        "brand": "ASUS",
+        "title": "Asus ROG Strix Scope TKL Gundam",
+        "descrip": "Eau de Toilette for her",
+        "cost": "",
+        "price": 3729000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ASUS/sp3/1.png",
+                "../assets/img/product/ASUS/sp3/2.png",
+                "../assets/img/product/ASUS/sp3/3.png"
+            ],
+            "des": "Gaming Keyboard",
+            "des_img": [
+                "https://preview.redd.it/157s32ja3h871.jpg?width=2048&format=pjpg&auto=webp&s=d1a17dd9d2ee896718c7c0c1ee0ea0ca85bdf3b1",
+                "https://dlcdnwebimgs.asus.com/files/media/1AABF8F2-1DA3-46B4-9C64-5A680D55FBF3/websites/product/img/page/scope/ROG-Strix-Scope-TKL-f12.png"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt với mỗi lần nhấn phím. Bàn phím cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "Tận hưởng sự thực dụng nhưng vẫn phong cách và mạnh mẽ đạm tính gaming. Bề mặt nhôm chống ăn mòn và chiếu kê tay có thể tháo rời là những tiện ích bổ sung đáng giá cho những  nhu cầu trải nghiệm cấp cao."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "Cảm nhận sự khác biệt mỗi lần nhấn phím. Bàn phím được trải qua thẩm định độ bền với 70 triệu lượt nhấn cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "ÁNH SÁNG TRONG LÒNG BÀN TAY",
+                "Kiểm soát hoàn toàn ánh sáng theo macro 16,8 triệu màu với tùy chọn tùy chỉnh đèn LED nền của từng phím. Bên cạnh đó, bạn có thể thiết lập hiệu ứng Led riêng cho mình với tối da 9 thiết lập riêng."
+            ]
+        },
+        "data-aos": "fade-up"
+    },
+    {
+        "id": 35,
+        "img": "../assets/img/product/CORSAIR/sp1/1.png",
+        "brand": "CORSAIR",
+        "title": "Corsair K95 Platinum XT",
+        "descrip": "Eau de Parfum for her",
+        "cost": "",
+        "price": 3899000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/CORSAIR/sp1/1.png",
+                "../assets/img/product/CORSAIR/sp1/2.png",
+                "../assets/img/product/CORSAIR/sp1/3.png"
+            ],
+            "des": "Gaming Keyboard",
+            "des_img": [
+                "https://tmp.phongvu.vn/wp-content/uploads/2020/06/Ban-phim-co-Corsair-K95-RGB-PLATINUM-XT-5.jpg",
+                "https://product.hstatic.net/1000333506/product/-phim-co-corsair-k95-rgb-platinum-xt-_c0b76c216bfd4a2fb00948b27e04cc32_93c86379aed74cdb8849e131f6637fd4.png"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt với mỗi lần nhấn phím. Bàn phím cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "Tận hưởng sự thực dụng nhưng vẫn phong cách và mạnh mẽ đạm tính gaming. Bề mặt nhôm chống ăn mòn và chiếu kê tay có thể tháo rời là những tiện ích bổ sung đáng giá cho những  nhu cầu trải nghiệm cấp cao."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "Cảm nhận sự khác biệt mỗi lần nhấn phím. Bàn phím được trải qua thẩm định độ bền với 70 triệu lượt nhấn cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "ÁNH SÁNG TRONG LÒNG BÀN TAY",
+                "Kiểm soát hoàn toàn ánh sáng theo macro 16,8 triệu màu với tùy chọn tùy chỉnh đèn LED nền của từng phím. Bên cạnh đó, bạn có thể thiết lập hiệu ứng Led riêng cho mình với tối da 9 thiết lập riêng."
+            ]
+        },
+        "data-aos": "fade-right"
+    },
+    {
+        "id": 38,
+        "img": "../assets/img/product/MSI/sp3/1.png",
+        "brand": "MSI",
+        "title": "MSI Vigor GK50 TKL",
+        "descrip": "Eau de Parfum Refillable for her",
+        "cost": "",
+        "price": 1929000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/MSI/sp3/1.png",
+                "../assets/img/product/MSI/sp3/2.png",
+                "../assets/img/product/MSI/sp3/3.png"
+            ],
+            "des": "Gaming Keyboard",
+            "des_img": [
+                "https://storage-asset.msi.com/global/picture/image/feature/multimeda/keyboard/GK50-LP-TKL/compact_img.jpg",
+                "https://storage-asset.msi.com/global/picture/image/feature/multimeda/keyboard/GK50-LP-TKL/GK50-LP-TKL-kv.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt với mỗi lần nhấn phím. Bàn phím cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "Tận hưởng sự thực dụng nhưng vẫn phong cách và mạnh mẽ đạm tính gaming. Bề mặt nhôm chống ăn mòn và chiếu kê tay có thể tháo rời là những tiện ích bổ sung đáng giá cho những  nhu cầu trải nghiệm cấp cao."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "Cảm nhận sự khác biệt mỗi lần nhấn phím. Bàn phím được trải qua thẩm định độ bền với 70 triệu lượt nhấn cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "ÁNH SÁNG TRONG LÒNG BÀN TAY",
+                "Kiểm soát hoàn toàn ánh sáng theo macro 16,8 triệu màu với tùy chọn tùy chỉnh đèn LED nền của từng phím. Bên cạnh đó, bạn có thể thiết lập hiệu ứng Led riêng cho mình với tối da 9 thiết lập riêng."
+            ]
+        },
+        "data-aos": "fade-up"
+    },
+    {
+        "id": 39,
+        "img": "../assets/img/product/RAZER/sp1/1.png",
+        "brand": "RAZER",
+        "title": "Razer DeathStalker V2 Pro TKL",
+        "descrip": "Eau de Toilette for him",
+        "cost": "",
+        "price": 3889000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/RAZER/sp1/1.png",
+                "../assets/img/product/RAZER/sp1/2.png",
+                "../assets/img/product/RAZER/sp1/3.png"
+            ],
+            "des": "Gaming Keyboard",
+            "des_img": [
+                "https://product.hstatic.net/1000287389/product/ainer_hf7_h81_9422672494622_220726-deathstalker-v2-pro-tkl-1500x1000-1_036ef02ac4a3439da7b1a284384189f4.jpg",
+                "https://assets2.razerzone.com/images/pnx.assets/64a0dc1c87750d24ea09696fd69b565b/razer-deathstalker-v2-pro-tenkeyless-multi-function-1920x700.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt với mỗi lần nhấn phím. Bàn phím cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "Tận hưởng sự thực dụng nhưng vẫn phong cách và mạnh mẽ đạm tính gaming. Bề mặt nhôm chống ăn mòn và chiếu kê tay có thể tháo rời là những tiện ích bổ sung đáng giá cho những  nhu cầu trải nghiệm cấp cao."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "Cảm nhận sự khác biệt mỗi lần nhấn phím. Bàn phím được trải qua thẩm định độ bền với 70 triệu lượt nhấn cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "ÁNH SÁNG TRONG LÒNG BÀN TAY",
+                "Kiểm soát hoàn toàn ánh sáng theo macro 16,8 triệu màu với tùy chọn tùy chỉnh đèn LED nền của từng phím. Bên cạnh đó, bạn có thể thiết lập hiệu ứng Led riêng cho mình với tối da 9 thiết lập riêng."
+            ]
+        },
+        "data-aos": "fade-up"
+    },
+    {
+        "id": 42,
+        "img": "../assets/img/product/ASUS/sp4/1.png",
+        "brand": "ASUS",
+        "title": "Asus ROG Claymore II",
+        "descrip": "Eau de Parfum Spray",
+        "cost": "",
+        "price": 5299000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/ASUS/sp4/1.png",
+                "../assets/img/product/ASUS/sp4/2.png",
+                "../assets/img/product/ASUS/sp4/3.png"
+            ],
+            "des": "Gaming Keyboard",
+            "des_img": [
+                "https://anphat.com.vn/media/product/41855_asus_rog_claymore_ii__1_.jpg",
+                "https://file.hstatic.net/1000233206/file/section-4-1_0de95a0e3cca40b1a1a7ed1eb851ffdd.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt với mỗi lần nhấn phím. Bàn phím cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "Tận hưởng sự thực dụng nhưng vẫn phong cách và mạnh mẽ đạm tính gaming. Bề mặt nhôm chống ăn mòn và chiếu kê tay có thể tháo rời là những tiện ích bổ sung đáng giá cho những  nhu cầu trải nghiệm cấp cao."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "Cảm nhận sự khác biệt mỗi lần nhấn phím. Bàn phím được trải qua thẩm định độ bền với 70 triệu lượt nhấn cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "ÁNH SÁNG TRONG LÒNG BÀN TAY",
+                "Kiểm soát hoàn toàn ánh sáng theo macro 16,8 triệu màu với tùy chọn tùy chỉnh đèn LED nền của từng phím. Bên cạnh đó, bạn có thể thiết lập hiệu ứng Led riêng cho mình với tối da 9 thiết lập riêng."
+            ]
+        },
+        "data-aos": "fade-left"
+    },
+    {
+        "id": 43,
+        "img": "../assets/img/product/CORSAIR/sp2/1.png",
+        "brand": "CORSAIR",
+        "title": "Corsair K100 RGB Midnight Gold",
+        "descrip": "Eau de Toilette for her - 75ML",
+        "cost": "",
+        "price": 5799000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/CORSAIR/sp2/1.png",
+                "../assets/img/product/CORSAIR/sp2/2.png",
+                "../assets/img/product/CORSAIR/sp2/3.png"
+            ],
+            "des": "Gaming Keyboard",
+            "des_img": [
+                "https://tanthanhdanh.vn/wp-content/uploads/2022/10/CH-912A21A-NA-Gallery-K100-Midnight-NA-15.jpg",
+                "https://bizweb.dktcdn.net/100/329/122/files/39780-corsair-k100-rgb-midnight-gold-opx-2.jpg?v=1636517988150"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt với mỗi lần nhấn phím. Bàn phím cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "Tận hưởng sự thực dụng nhưng vẫn phong cách và mạnh mẽ đạm tính gaming. Bề mặt nhôm chống ăn mòn và chiếu kê tay có thể tháo rời là những tiện ích bổ sung đáng giá cho những  nhu cầu trải nghiệm cấp cao."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "Cảm nhận sự khác biệt mỗi lần nhấn phím. Bàn phím được trải qua thẩm định độ bền với 70 triệu lượt nhấn cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "ÁNH SÁNG TRONG LÒNG BÀN TAY",
+                "Kiểm soát hoàn toàn ánh sáng theo macro 16,8 triệu màu với tùy chọn tùy chỉnh đèn LED nền của từng phím. Bên cạnh đó, bạn có thể thiết lập hiệu ứng Led riêng cho mình với tối da 9 thiết lập riêng."
+            ]
+        },
+        "data-aos": "fade-down"
+    },
+    {
+        "id": 46,
+        "img": "../assets/img/product/MSI/sp4/1.png",
+        "brand": "MSI",
+        "title": "MSI Vigor GK50 Elite",
+        "descrip": "Eau de Parfum for her - 50ML",
+        "cost": "",
+        "price": 2249000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/MSI/sp4/1.png",
+                "../assets/img/product/MSI/sp4/2.png",
+                "../assets/img/product/MSI/sp4/3.png"
+            ],
+            "des": "Gaming Keyboard",
+            "des_img": [
+                "https://nguyencongpc.vn/photos2/shares/Bai-viet/Gear/Ban-phim/MSI/VIGOR-GK50-ELITE-KAILH-BLUE/VIGOR-GK50-ELITE-KAILH-BLUE-9.png",
+                "https://expertreviews.b-cdn.net/sites/expertreviews/files/styles/er_main_wide/public/2021/06/gk50_elite_closeup_1.png?itok=GpBp2hzB"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt với mỗi lần nhấn phím. Bàn phím cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "Tận hưởng sự thực dụng nhưng vẫn phong cách và mạnh mẽ đạm tính gaming. Bề mặt nhôm chống ăn mòn và chiếu kê tay có thể tháo rời là những tiện ích bổ sung đáng giá cho những  nhu cầu trải nghiệm cấp cao."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "Cảm nhận sự khác biệt mỗi lần nhấn phím. Bàn phím được trải qua thẩm định độ bền với 70 triệu lượt nhấn cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "ÁNH SÁNG TRONG LÒNG BÀN TAY",
+                "Kiểm soát hoàn toàn ánh sáng theo macro 16,8 triệu màu với tùy chọn tùy chỉnh đèn LED nền của từng phím. Bên cạnh đó, bạn có thể thiết lập hiệu ứng Led riêng cho mình với tối da 9 thiết lập riêng."
+            ]
+        },
+        "data-aos": "fade-left"
+    },
+    {
+        "id": 47,
+        "img": "../assets/img/product/RAZER/sp2/1.png",
+        "brand": "RAZER",
+        "title": "Razer Blackwidow V3 Quartz",
+        "descrip": "Parfum for him",
+        "cost": "",
+        "price": 3299000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/RAZER/sp2/1.png",
+                "../assets/img/product/RAZER/sp2/2.png",
+                "../assets/img/product/RAZER/sp2/3.png"
+            ],
+            "des": "Gaming Keyboard",
+            "des_img": [
+                "https://bizweb.dktcdn.net/100/329/122/files/https-hybrismediaprod-blob-core-windows-net-sys-master-phoenix-images-container-h57-h94-9089910833182-razer-blackwidow-v3-quart-1500x1000-1.jpg?v=1627266395102",
+                "https://images.squarespace-cdn.com/content/v1/5f04f767ded4a14e876e6190/1620607687065-0ZR836AZ4BHO9ORX049T/Razer%20Black%20Widow%20V3%20Review%20Sypnotix"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt với mỗi lần nhấn phím. Bàn phím cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "Tận hưởng sự thực dụng nhưng vẫn phong cách và mạnh mẽ đạm tính gaming. Bề mặt nhôm chống ăn mòn và chiếu kê tay có thể tháo rời là những tiện ích bổ sung đáng giá cho những  nhu cầu trải nghiệm cấp cao."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "Cảm nhận sự khác biệt mỗi lần nhấn phím. Bàn phím được trải qua thẩm định độ bền với 70 triệu lượt nhấn cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "ÁNH SÁNG TRONG LÒNG BÀN TAY",
+                "Kiểm soát hoàn toàn ánh sáng theo macro 16,8 triệu màu với tùy chọn tùy chỉnh đèn LED nền của từng phím. Bên cạnh đó, bạn có thể thiết lập hiệu ứng Led riêng cho mình với tối da 9 thiết lập riêng."
+            ]
+        },
+        "data-aos": "fade-left"
+    }
+]

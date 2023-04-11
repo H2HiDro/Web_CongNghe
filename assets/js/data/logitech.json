@@ -1,0 +1,298 @@
+[{
+        "id": 5,
+        "img": "../assets/img/product/LOGITECH/sp1/1.png",
+        "brand": "LOGITECH",
+        "title": "Logitech G715 TKL RGB Aurora",
+        "descrip": "Eau de Parfum Spray",
+        "cost": "",
+        "price": 3849000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/LOGITECH/sp1/1.png",
+                "../assets/img/product/LOGITECH/sp1/2.png",
+                "../assets/img/product/LOGITECH/sp1/3.png"
+            ],
+            "des": "Gaming Keyboard",
+            "des_img": [
+                "https://nguyenvu.store/wp-content/uploads/2022/10/ban-phim-co-logitech-g715-wireless-tkl-nguyenvu.store-3.webp",
+                "https://hanoicomputercdn.com/media/product/68796_ban_phim_game_khong_day_logitech_g715_tkl_rgb_aurora_off_white_6.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt với mỗi lần nhấn phím. Bàn phím cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "Tận hưởng sự thực dụng nhưng vẫn phong cách và mạnh mẽ đạm tính gaming. Bề mặt nhôm chống ăn mòn và chiếu kê tay có thể tháo rời là những tiện ích bổ sung đáng giá cho những  nhu cầu trải nghiệm cấp cao."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "Cảm nhận sự khác biệt mỗi lần nhấn phím. Bàn phím được trải qua thẩm định độ bền với 70 triệu lượt nhấn cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "ÁNH SÁNG TRONG LÒNG BÀN TAY",
+                "Kiểm soát hoàn toàn ánh sáng theo macro 16,8 triệu màu với tùy chọn tùy chỉnh đèn LED nền của từng phím. Bên cạnh đó, bạn có thể thiết lập hiệu ứng Led riêng cho mình với tối da 9 thiết lập riêng."
+            ]
+        },
+        "data-aos": "fade-right"
+    },
+    {
+        "id": 13,
+        "img": "../assets/img/product/LOGITECH/sp2/1.png",
+        "brand": "LOGITECH",
+        "title": "Logitech G913 TKL Lightspeed Wireless",
+        "descrip": "Eau de Toilette for her",
+        "cost": "",
+        "price": 3899000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/LOGITECH/sp2/1.png",
+                "../assets/img/product/LOGITECH/sp2/2.png",
+                "../assets/img/product/LOGITECH/sp2/3.png"
+            ],
+            "des": "Gaming Keyboard",
+            "des_img": [
+                "https://file.hstatic.net/1000026716/file/gearvn-ban-phim-logitech-g913-tkl-lightspeed-wireless-7_3278de91013b465fb83e7400f7c9269c.png",
+                "https://product.hstatic.net/1000333506/product/g913-tkl-wireless-4_104441c5f25e4f53b1740f4b26b4816d_d83b13dd28074b1db558f044e3f742dd.png"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt với mỗi lần nhấn phím. Bàn phím cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "Tận hưởng sự thực dụng nhưng vẫn phong cách và mạnh mẽ đạm tính gaming. Bề mặt nhôm chống ăn mòn và chiếu kê tay có thể tháo rời là những tiện ích bổ sung đáng giá cho những  nhu cầu trải nghiệm cấp cao."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "Cảm nhận sự khác biệt mỗi lần nhấn phím. Bàn phím được trải qua thẩm định độ bền với 70 triệu lượt nhấn cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "ÁNH SÁNG TRONG LÒNG BÀN TAY",
+                "Kiểm soát hoàn toàn ánh sáng theo macro 16,8 triệu màu với tùy chọn tùy chỉnh đèn LED nền của từng phím. Bên cạnh đó, bạn có thể thiết lập hiệu ứng Led riêng cho mình với tối da 9 thiết lập riêng."
+            ]
+        },
+        "data-aos": "fade-down"
+    },
+    {
+        "id": 21,
+        "img": "../assets/img/product/LOGITECH/sp3/1.png",
+        "brand": "LOGITECH",
+        "title": "Logitech G Pro X",
+        "descrip": "Eau de Parfum for her",
+        "cost": "",
+        "price": 2199000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/LOGITECH/sp3/1.png",
+                "../assets/img/product/LOGITECH/sp3/2.png",
+                "../assets/img/product/LOGITECH/sp3/3.png"
+            ],
+            "des": "Gaming Keyboard",
+            "des_img": [
+                "https://cdn.mos.cms.futurecdn.net/azfDqGxTqUNFTzJGSs5hyV.jpeg",
+                "https://mms.businesswire.com/media/20191001005373/en/747071/4/DSC03576.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt với mỗi lần nhấn phím. Bàn phím cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "Tận hưởng sự thực dụng nhưng vẫn phong cách và mạnh mẽ đạm tính gaming. Bề mặt nhôm chống ăn mòn và chiếu kê tay có thể tháo rời là những tiện ích bổ sung đáng giá cho những  nhu cầu trải nghiệm cấp cao."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "Cảm nhận sự khác biệt mỗi lần nhấn phím. Bàn phím được trải qua thẩm định độ bền với 70 triệu lượt nhấn cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "ÁNH SÁNG TRONG LÒNG BÀN TAY",
+                "Kiểm soát hoàn toàn ánh sáng theo macro 16,8 triệu màu với tùy chọn tùy chỉnh đèn LED nền của từng phím. Bên cạnh đó, bạn có thể thiết lập hiệu ứng Led riêng cho mình với tối da 9 thiết lập riêng."
+            ]
+        },
+        "data-aos": "fade-up"
+    },
+    {
+        "id": 29,
+        "img": "../assets/img/product/LOGITECH/sp4/1.png",
+        "brand": "LOGITECH",
+        "title": "Logitech G512 Lightsync RGB",
+        "descrip": "Eau de Toilette for her - 75ML",
+        "cost": "",
+        "price": 1999000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/LOGITECH/sp4/1.png",
+                "../assets/img/product/LOGITECH/sp4/2.png",
+                "../assets/img/product/LOGITECH/sp4/3.png"
+            ],
+            "des": "Gaming Keyboard",
+            "des_img": [
+                "https://cdn.sforum.vn/sforum/wp-content/uploads/2019/03/CPS-Logitech-G512-Carbon-18.jpg",
+                "https://genk.mediacdn.vn/thumb_w/640/2018/11/4/photo-2-15413192521041343165891.jpg"
+            ],
+            "des_content": [
+                "Cảm nhận sự khác biệt với mỗi lần nhấn phím. Bàn phím cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "Tận hưởng sự thực dụng nhưng vẫn phong cách và mạnh mẽ đạm tính gaming. Bề mặt nhôm chống ăn mòn và chiếu kê tay có thể tháo rời là những tiện ích bổ sung đáng giá cho những  nhu cầu trải nghiệm cấp cao."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "2 năm",
+                "Ra mắt:": "2015"
+            },
+            "des_about_des": [
+                "HIỆU QUẢ VÀ BỀN BỈ",
+                "Cảm nhận sự khác biệt mỗi lần nhấn phím. Bàn phím được trải qua thẩm định độ bền với 70 triệu lượt nhấn cung cấp lợi thế chiến thuật quyết định bạn trở thành kẻ thắng cuộc.",
+                "ÁNH SÁNG TRONG LÒNG BÀN TAY",
+                "Kiểm soát hoàn toàn ánh sáng theo macro 16,8 triệu màu với tùy chọn tùy chỉnh đèn LED nền của từng phím. Bên cạnh đó, bạn có thể thiết lập hiệu ứng Led riêng cho mình với tối da 9 thiết lập riêng."
+            ]
+        },
+        "data-aos": "fade-left"
+    },
+    {
+        "id": 37,
+        "img": "../assets/img/product/LOGITECH/sp5/1.png",
+        "brand": "LOGITECH",
+        "title": "Logitech G502X RGB Plus Lightspeed",
+        "descrip": "Eau de Parfum Spray",
+        "cost": "",
+        "price": 3549000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/LOGITECH/sp5/1.png",
+                "../assets/img/product/LOGITECH/sp5/2.png",
+                "../assets/img/product/LOGITECH/sp5/3.png"
+            ],
+            "des": "This new chapter of La vie est Belle keeps a zesty and colorful top of fruity notes. Bergamot sparkles under the fusing notes of Pink Pepper and combines with the raspberry accord for an explosion of juicy freshness. In the heart, the petal-like floral bouquet, generous and faceted, is sublimated by the rich notes of Damascena rose and sunny ylang ylang. In the base, patchouli, gourmand accord and iris are used in overdose to intensify the addictive and sensual signature of La vie est Belle",
+            "des": "Gaming Mouse",
+            "des_img": [
+                "https://technuovo.com/wp-content/uploads/2022/08/logitech-g502-x-lightspeed-gaming-mouse-1-950x500.jpg",
+                "https://hanoicomputercdn.com/media/lib/15-12-2022/chuot-game-khong-day-logitech-g502x-rgb-plus-lightspeed-trang-910-006148-usb1.png"
+            ],
+            "des_content": [
+                "Thiết kế đậm chất game thủ. Cảm nhận sự khác biệt mỗi cú click. Mắt đọc thế hệ mới, đem lại sự chính xác tuyệt đối.",
+                "Là kết quả của sự hợp tác với những game thủ hàng đầu thế giới, là một trong những gaming gear đắc lực đưa game thủ đến với những bàn thắng."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "1 năm",
+                "Ra mắt:": "2019"
+            },
+            "des_about_des": [
+                "CHÍNH XÁC VÀ BỀN BỈ",
+                "Switch thế hệ mới, độ bền cực cao hơn 70 triệu lần nhấn. Mắt đọc cao cấp thế hệ mới nhất đem lại độ chính xác cực kì cao.",
+                "SỰ THOẢI MÁI TRONG LÒNG BÀN TAY",
+                "Thiết kế đột phá nhờ kết hợp với game thủ nổi tiếng, trong lượng nhẹ và đem lại cảm giác cầm nắm tuyệt vời."
+            ]
+        },
+        "data-aos": "fade-right"
+    },
+    {
+        "id": 45,
+        "img": "../assets/img/product/LOGITECH/sp6/1.png",
+        "brand": "LOGITECH",
+        "title": "Logitech G203 Blue",
+        "descrip": "Eau de Toilette for her - 100ML",
+        "cost": "",
+        "price": 389000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/LOGITECH/sp6/1.png",
+                "../assets/img/product/LOGITECH/sp6/2.png",
+                "../assets/img/product/LOGITECH/sp6/3.png"
+            ],
+            "des": "Gaming Mouse",
+            "des_img": [
+                "https://file.hstatic.net/200000637319/file/pasted_image_0_21b0fe0a633849238b45caa429d5d8a5_grande.png",
+                "https://nguyencongpc.vn/media/lib/20-07-2022/g2031.jpeg"
+            ],
+            "des_content": [
+                "Thiết kế đậm chất game thủ. Cảm nhận sự khác biệt mỗi cú click. Mắt đọc thế hệ mới, đem lại sự chính xác tuyệt đối.",
+                "Là kết quả của sự hợp tác với những game thủ hàng đầu thế giới, là một trong những gaming gear đắc lực đưa game thủ đến với những bàn thắng."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "1 năm",
+                "Ra mắt:": "2019"
+            },
+            "des_about_des": [
+                "CHÍNH XÁC VÀ BỀN BỈ",
+                "Switch thế hệ mới, độ bền cực cao hơn 70 triệu lần nhấn. Mắt đọc cao cấp thế hệ mới nhất đem lại độ chính xác cực kì cao.",
+                "SỰ THOẢI MÁI TRONG LÒNG BÀN TAY",
+                "Thiết kế đột phá nhờ kết hợp với game thủ nổi tiếng, trong lượng nhẹ và đem lại cảm giác cầm nắm tuyệt vời."
+            ]
+        },
+        "data-aos": "fade-down"
+    },
+    {
+        "id": 6,
+        "img": "../assets/img/product/LOGITECH/sp7/1.png",
+        "brand": "LOGITECH",
+        "title": "Logitech Pro X Superlight",
+        "descrip": "Eau de Parfum Spray",
+        "cost": "",
+        "price": 2849000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/LOGITECH/sp7/1.png",
+                "../assets/img/product/LOGITECH/sp7/2.png",
+                "../assets/img/product/LOGITECH/sp7/3.png"
+            ],
+            "des": "Gaming Mouse",
+            "des_img": [
+                "https://phukienmaytinh.vn/wp-content/uploads/2020/12/G-Pro-X-Superlight.jpg",
+                "https://prosettings.net/wp-content/uploads/2020/11/Logitech-G-Pro-X-Superlight-Review-First-Impressions.jpg"
+            ],
+            "des_content": [
+                "Thiết kế đậm chất game thủ. Cảm nhận sự khác biệt mỗi cú click. Mắt đọc thế hệ mới, đem lại sự chính xác tuyệt đối.",
+                "Là kết quả của sự hợp tác với những game thủ hàng đầu thế giới, là một trong những gaming gear đắc lực đưa game thủ đến với những bàn thắng."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "1 năm",
+                "Ra mắt:": "2019"
+            },
+            "des_about_des": [
+                "CHÍNH XÁC VÀ BỀN BỈ",
+                "Switch thế hệ mới, độ bền cực cao hơn 70 triệu lần nhấn. Mắt đọc cao cấp thế hệ mới nhất đem lại độ chính xác cực kì cao.",
+                "SỰ THOẢI MÁI TRONG LÒNG BÀN TAY",
+                "Thiết kế đột phá nhờ kết hợp với game thủ nổi tiếng, trong lượng nhẹ và đem lại cảm giác cầm nắm tuyệt vời."
+            ]
+        },
+        "data-aos": "fade-up"
+    },
+    {
+        "id": 14,
+        "img": "../assets/img/product/LOGITECH/sp8/1.png",
+        "brand": "LOGITECH",
+        "title": "Logitech G402 Hyperion Fury",
+        "descrip": "Eau de Parfum for her",
+        "cost": "",
+        "price": 709000,
+        "subProduct": {
+            "pre_img": [
+                "../assets/img/product/LOGITECH/sp8/1.png",
+                "../assets/img/product/LOGITECH/sp8/2.png",
+                "../assets/img/product/LOGITECH/sp8/3.png"
+            ],
+            "des": "Gaming Mouse",
+            "des_img": [
+                "https://www.trustedreviews.com/wp-content/uploads/sites/54/2014/09/P1090596-1-920x517.jpg",
+                "https://images2.thanhnien.vn/Uploaded/game/st.game.thanhnien.com.vn/image/TNGame/082014/03/thanhniengame-LOGITECH-G402-HYPERION-FURY-6.jpg"
+            ],
+            "des_content": [
+                "Thiết kế đậm chất game thủ. Cảm nhận sự khác biệt mỗi cú click. Mắt đọc thế hệ mới, đem lại sự chính xác tuyệt đối.",
+                "Là kết quả của sự hợp tác với những game thủ hàng đầu thế giới, là một trong những gaming gear đắc lực đưa game thủ đến với những bàn thắng."
+            ],
+            "des_about": {
+                "Xuất sứ:": "Made in China",
+                "Bảo hành:": "1 năm",
+                "Ra mắt:": "2019"
+            },
+            "des_about_des": [
+                "CHÍNH XÁC VÀ BỀN BỈ",
+                "Switch thế hệ mới, độ bền cực cao hơn 70 triệu lần nhấn. Mắt đọc cao cấp thế hệ mới nhất đem lại độ chính xác cực kì cao.",
+                "SỰ THOẢI MÁI TRONG LÒNG BÀN TAY",
+                "Thiết kế đột phá nhờ kết hợp với game thủ nổi tiếng, trong lượng nhẹ và đem lại cảm giác cầm nắm tuyệt vời."
+            ]
+        },
+        "data-aos": "fade-left"
+    }
+]
